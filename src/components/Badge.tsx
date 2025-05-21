@@ -14,10 +14,15 @@ export function Badge({
       {...props}
     >
       <picture>
-        <a href={`https://www.instagram.com/agung_wirak`} target="_noblank" rel="noopener noreferrer">
-          <VercelIcon size={16} />
-          @agung_wirak
-        </a> 
+        <source
+          srcSet="https://liveblocks.io/badge-dark.svg"
+          media="(prefers-color-scheme: dark)"
+        />
+        <img
+          src="https://liveblocks.io/badge-light.svg"
+          alt="Made with Liveblocks"
+          className={styles.image}
+        />
       </picture>
     </a>
   );
