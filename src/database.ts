@@ -10,7 +10,7 @@ const USER_INFO: Liveblocks["UserMeta"][] = [
   {
     id: "mislav.abha@example.com",
     info: {
-      name: "Mislav Abha",
+      name: "Awxy",
       color: "#F08385",
       avatar: "https://liveblocks.io/avatars/avatar-2.png",
     },
@@ -18,7 +18,7 @@ const USER_INFO: Liveblocks["UserMeta"][] = [
   {
     id: "tatum.paolo@example.com",
     info: {
-      name: "Tatum Paolo",
+      name: "Wira",
       color: "#F0D885",
       avatar: "https://liveblocks.io/avatars/avatar-3.png",
     },
@@ -34,7 +34,7 @@ const USER_INFO: Liveblocks["UserMeta"][] = [
   {
     id: "jody.hekla@example.com",
     info: {
-      name: "Jody Hekla",
+      name: "Wira",
       color: "#85BBF0",
       avatar: "https://liveblocks.io/avatars/avatar-5.png",
     },
